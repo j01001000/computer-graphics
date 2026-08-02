@@ -1,0 +1,21 @@
+hw9: Hydrogen Atomic Orbitals
+
+Jun Hong
+CSCI4239/5239 Spring 2026
+
+
+Demonstrate the atomic orbitals of the hydrogen atom using particles up to n = 4.
+
+ 
+   Key bindings:
+   n         Increase energy level
+   l         Increase angular momentum quantum number
+   m         Increase magnetic quantum number
+   p         Toggle between stationary and flickering particles
+   o         Toggle between particle shaders but there's only one shader
+   a          Toggle axes
+   arrows     Change view angle
+   PgDn/PgUp  Zoom in and out
+   0          Reset view angle
+   ESC        Exit
+ 
