@@ -1,0 +1,40 @@
+project
+
+Jun Hong
+CSCI4229/5229 Summer 2025
+
+
+Interstellar - Dr. Miller's Planet. A tidal wave is about to engulf the ranger.
+
+Credit: https://www.turbosquid.com/3d-models/interstellar-movie-model-1693389
+Credit goes to Warner Brothers for the source material.
+
+Used modified ex35 to obtain coordinates for Bezier curves. Tried to use it to build an astronaut but ran out of time. You can view it by pressing "M".
+
+Used a Gaussian to model a tidal wave.
+
+Used the Fourier solution to 2-dim wave equation to model the water.
+
+Used GIMP to create the cube map.
+
+Key bindings
+ *  l          Toggle lighting on/off
+ *  z/Z        Toggle light movement
+ *  </>        Move light
+ *  r/R        decrease/increase radius of light source
+ *  t/T        decrease/increase ambient light
+ *  y/Y        decrease/increase diffuse light
+ *  u/U        decrease/increase specular light
+ *  e/E        decrease/increase emitted light
+ *  M          reveals incomplete astronaut
+ *  c/C        decrease/increase height of wave
+ *  m          Toggle between orthogonal, perspective, and first person
+ *  +/-        Changes field of view for perspective
+ *  w/s/a/d    Move forward, backward, strafe left, and strafe right in first-person mode
+ *  n/N        Decrease/increase shininess
+ *  []         Lower/rise light
+ *  x          Toggle axes
+ *  arrows     Change view angle
+ *  PgDn/PgUp  Zoom in and out
+ *  0          Reset view angle
+ *  ESC        Exit
